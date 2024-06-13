@@ -52,8 +52,11 @@
     margin-bottom: 100px;
     padding: 30px;
     justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
 }
-table {
+table{
     width: 100%;
     border-collapse: separate;
     border-spacing: 20px 30px; 
@@ -66,4 +69,27 @@ body{
 } 
 .icons i {
     font-size: 3em; 
+}
+.educationexperience{
+    background-color: #F2EBE3;
+    text-align: center;
+    margin-top: 400px;
+    margin-bottom: 100px;
+    padding: 30px;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+.logo{
+    width: 200px;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+}
+.table2{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 10px 20px; 
+    padding-bottom: 10px;
 }
