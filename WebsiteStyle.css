@@ -73,7 +73,7 @@ body{
 .educationexperience{
     background-color: #F2EBE3;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 200px;
     margin-bottom: 100px;
     padding: 30px;
     justify-content: space-between;
@@ -92,4 +92,33 @@ body{
     border-collapse: separate;
     border-spacing: 10px 20px; 
     padding-bottom: 10px;
+
+}
+.table3{
+    text-align: center;
+    margin-top: 150px;
+    padding: 30px;
+    justify-content: space-between;
+    color: #F2EBE3;
+    font-size: 40px;
+}
+.contact{
+    color: #F2EBE3;
+    font-size: 15px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+button {
+    width: 120px;
+    height: 50px;
+    font-size: 15px;
+    color: #F2EBE3; 
+    background-color: #1f1f65; 
+    border: 1px solid #F2EBE3; 
+    border-radius: 5px; 
+    text-align: center; 
+    line-height: 50px; 
+    cursor: pointer; 
+    font-family: sans-serif; 
 }
